@@ -39,6 +39,7 @@ import org.json.JSONObject;
 
 public class MainActivity extends ActionBarActivity {
 // this is a test for git
+// github test 2
 	private static final int CAMERA_CAPTURE_IMAGE_REQUEST_CODE = 100;
     private static final int CAMERA_CAPTURE_VIDEO_REQUEST_CODE = 200;
     public static final int MEDIA_TYPE_IMAGE = 1;
