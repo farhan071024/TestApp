@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_vedio">VedioActivity</string>
+    <string name="sv">Vedio</string>
+    <string name="dc">Digital Clock</string>
+    <string name="title_activity_location">Location</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_maps_activity1">Map</string>
+    <string name="title_activity_contacts_list">ContactsList</string>
+    <string name="title_activity_map_activity2">MapActivity2</string>
+
+</resources>
