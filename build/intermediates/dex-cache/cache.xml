@@ -16,11 +16,11 @@
         <dex dex="C:\Users\ASUS\AndroidStudioProjects\TestApp\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-20986bed0dd268a45800c97804f5005fc3b828e0.jar" />
     </item>
     <item
-        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jar="D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
-        <dex dex="C:\Users\ASUS\AndroidStudioProjects\TestApp\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-fa883d6290039362849f114a5bf013892e2506b3.jar" />
+        <dex dex="C:\Users\ASUS\AndroidStudioProjects\TestApp\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-ffb2de525e0d1a5036c170a0a0161259b55fbee6.jar" />
     </item>
     <item
         jar="C:\Users\ASUS\AndroidStudioProjects\TestApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
